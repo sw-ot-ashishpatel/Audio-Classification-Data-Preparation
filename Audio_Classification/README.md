@@ -875,12 +875,11 @@ plt.legend(['Train', 'Test'], loc='upper left')
 plt.show()
 ```
 
-
-![png](output_30_0.png)
-
+![png](https://github.com/sw-ot-ashishpatel/Audio-Classification-Data-Preparation/blob/master/Audio_Classification/Images/output_30_0.png)
 
 
-![png](output_30_1.png)
+
+![png](https://github.com/sw-ot-ashishpatel/Audio-Classification-Data-Preparation/blob/master/Audio_Classification/Images/output_30_1.png)
 
 
 
